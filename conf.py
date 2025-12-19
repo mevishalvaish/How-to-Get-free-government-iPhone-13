@@ -1,0 +1,9 @@
+project = 'Free Government iPhone 13'
+copyright = '2025, EcoTech Grants'
+author = 'EcoTech Grants'
+release = '1.0'
+extensions = []
+templates_path = ['_templates']
+exclude_patterns = []
+html_theme = 'alabaster'
+html_static_path = ['_static']
